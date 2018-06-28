@@ -1,0 +1,5 @@
+
+ #DO NOT TRACK CONTENT IN THESE FOLDERS 
+ node_modules
+ .DS store
+ .env
